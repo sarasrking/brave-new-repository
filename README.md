@@ -7,6 +7,7 @@ This is the repository we are using for the ARDC GitHub Training.
 ## Authors
 
 - [@sarasrking](https://www.github.com/sarasrking)
+- [@beebanana](https://github.com/beebanana77)
 
 ## Acknowledgements
 
